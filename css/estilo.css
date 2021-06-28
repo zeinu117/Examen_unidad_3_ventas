@@ -1,0 +1,14 @@
+body{
+	padding-top: 70px;
+}
+/* Set a background image by replacing the URL below */
+
+.fondo{
+    background-image: url('https://destinonegocio.com/wp-content/uploads/2017/10/ventas-por-internet.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
